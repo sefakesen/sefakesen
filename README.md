@@ -1,4 +1,4 @@
-# Merhaba, Ben [Adın]! 👋
+# Merhaba, Ben Sefa Kesen! 👋
 
 **Oyun Programcısı | Yazılım Geliştirici | İçerik Üreticisi**
 
@@ -8,8 +8,8 @@
 * 🎓 Bilgisayar Programcılığı mezunuyum ve tüm akademik derslerimi uzmanlık seviyesinde tamamladım.
 * 🎮 Ağırlıklı olarak **Unity** oyun motoru ile projeler geliştiriyorum.
 * 📊 Şu sıralar **Veri Analizi** ve **Makine Öğrenimi** alanlarında kendimi geliştirmeye odaklanıyorum.
-* 💡 Açık kaynak projelere katkıda bulunmaktan ve yeni teknolojileri keşfetmekten (özellikle Linux ortamında) keyif alıyorum.
-* 📫 Bana ulaşmak için: [E-posta adresin veya LinkedIn linkin]
+* 💡 Açık kaynak projelere katkıda bulunmaktan ve yeni teknolojileri keşfetmekten keyif alıyorum.
+* 📫 Bana ulaşmak için: sefakesen01@gmail.com
 
 ### 💻 Teknoloji Yığınım (Tech Stack)
 
